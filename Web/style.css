@@ -1,0 +1,57 @@
+*{
+   margin: 0%;
+   padding: 0%;
+   font-family: "comic sans ms";
+}
+body{
+    background-image: url(Img/Backgound.jpg);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+#Login_Box{
+    text-align: center;
+    font-family: 'arial';
+    margin: 10% 35%;
+    border: 3px solid #13788a;
+    border-radius: 15px;
+    height: 70%;
+    background-color: #F2D194;
+}
+#Login{
+    padding-top: 15px;
+    color:#124C59;
+}
+#Img_login{
+    width: 70px;
+    height: 70px;
+    border: 3px solid #13788a;
+    border-radius: 50px; 
+}
+.input_login{
+    width: 60%;
+    padding: 5px;
+    margin: 15px;
+    border-radius: 10px;
+    border-color: #13788a;
+}
+#Forget_Box{
+    margin: 5px;
+    color: #13788a;
+    font-size: larger;
+    font-weight: italic;
+    text-decoration: none;
+    padding: 5%;
+}
+#Login_Button{
+    margin: 15px;
+    padding: 5px;
+    border: 2px #13788a solid;
+    border-radius: 15px;
+    width: 30%;
+}
+#Login_Button a{
+    text-decoration: none;
+    color: #13788a;
+}

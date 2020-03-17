@@ -1,0 +1,63 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    height: 100%;
+    font-family: "godofwar";
+    background-image: url(../Img/);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+header{
+    background-color: thistle;
+    height: 50px;
+}
+.leftHeader{
+    padding: 15px;
+    float: left;
+}
+#PP{
+    padding-left: 30px;
+}
+#rightHeader{
+    float: right;
+}
+#imgLogin{
+    padding: 5px;
+    height: 40px;
+    border-radius: 50px;
+}
+main{
+    text-align: center;
+    margin-top: 13%;
+    margin-bottom: 20%;
+}
+#logoEngine{
+    font-size: 500%;
+}
+#Sultan{
+    color: indigo;
+}
+#Engine{
+    color: lawngreen;
+}
+#searchBar{
+    width: 25%;
+    height: 25px;
+    border-radius: 15px;
+}
+#searchButton{
+    width: 5%;
+    height: 25px;
+    border-radius: 15px;
+    padding-bottom: -15px;
+}
+a{
+    text-decoration: none;
+}
+footer{
+    margin-top: 5px;
+    text-align: center;
+}

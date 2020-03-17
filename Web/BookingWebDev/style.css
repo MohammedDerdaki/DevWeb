@@ -1,0 +1,11 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+header{
+    background-color: aqua;
+    float: unset;
+}
+main{
+    margin: 50%;
+}
