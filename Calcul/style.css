@@ -1,0 +1,18 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.cell{
+    background-color: crimson;
+    border: darkblue 1px solid;
+    text-align: center;
+    color: cornsilk;
+    padding: 15px;
+    border-radius: 7px;
+}
+tr :hover{
+    background-color: lawngreen;
+}
+#equal{
+    background-color: blueviolet;
+}
