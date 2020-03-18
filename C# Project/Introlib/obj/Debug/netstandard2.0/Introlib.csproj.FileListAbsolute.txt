@@ -1,0 +1,8 @@
+C:\GitProject\DevWeb\C# Project\Introlib\bin\Debug\netstandard2.0\Introlib.deps.json
+C:\GitProject\DevWeb\C# Project\Introlib\bin\Debug\netstandard2.0\Introlib.dll
+C:\GitProject\DevWeb\C# Project\Introlib\bin\Debug\netstandard2.0\Introlib.pdb
+C:\GitProject\DevWeb\C# Project\Introlib\obj\Debug\netstandard2.0\Introlib.csprojAssemblyReference.cache
+C:\GitProject\DevWeb\C# Project\Introlib\obj\Debug\netstandard2.0\Introlib.AssemblyInfoInputs.cache
+C:\GitProject\DevWeb\C# Project\Introlib\obj\Debug\netstandard2.0\Introlib.AssemblyInfo.cs
+C:\GitProject\DevWeb\C# Project\Introlib\obj\Debug\netstandard2.0\Introlib.dll
+C:\GitProject\DevWeb\C# Project\Introlib\obj\Debug\netstandard2.0\Introlib.pdb

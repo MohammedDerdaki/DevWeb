@@ -1,0 +1,14 @@
+C:\GitProject\DevWeb\C# Project\IntroUI\bin\Debug\netcoreapp3.1\IntroUI.exe
+C:\GitProject\DevWeb\C# Project\IntroUI\bin\Debug\netcoreapp3.1\IntroUI.deps.json
+C:\GitProject\DevWeb\C# Project\IntroUI\bin\Debug\netcoreapp3.1\IntroUI.runtimeconfig.json
+C:\GitProject\DevWeb\C# Project\IntroUI\bin\Debug\netcoreapp3.1\IntroUI.runtimeconfig.dev.json
+C:\GitProject\DevWeb\C# Project\IntroUI\bin\Debug\netcoreapp3.1\IntroUI.dll
+C:\GitProject\DevWeb\C# Project\IntroUI\bin\Debug\netcoreapp3.1\IntroUI.pdb
+C:\GitProject\DevWeb\C# Project\IntroUI\bin\Debug\netcoreapp3.1\Introlib.dll
+C:\GitProject\DevWeb\C# Project\IntroUI\bin\Debug\netcoreapp3.1\Introlib.pdb
+C:\GitProject\DevWeb\C# Project\IntroUI\obj\Debug\netcoreapp3.1\IntroUI.csprojAssemblyReference.cache
+C:\GitProject\DevWeb\C# Project\IntroUI\obj\Debug\netcoreapp3.1\IntroUI.AssemblyInfoInputs.cache
+C:\GitProject\DevWeb\C# Project\IntroUI\obj\Debug\netcoreapp3.1\IntroUI.AssemblyInfo.cs
+C:\GitProject\DevWeb\C# Project\IntroUI\obj\Debug\netcoreapp3.1\IntroUI.csproj.CopyComplete
+C:\GitProject\DevWeb\C# Project\IntroUI\obj\Debug\netcoreapp3.1\IntroUI.dll
+C:\GitProject\DevWeb\C# Project\IntroUI\obj\Debug\netcoreapp3.1\IntroUI.pdb
