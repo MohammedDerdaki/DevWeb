@@ -1,0 +1,37 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+}
+form{
+    margin-top: 10%;
+    margin-left: 35%;
+    text-align: center;
+    border: 1px solid gray;
+    width: 30%;
+    border-radius: 24px;
+    height: 50vh;
+}
+h1{
+    text-align: center;
+    color: blueviolet;
+}
+input{
+    width: 90%;
+    border: 0.5px solid wheat;
+    border-radius: 16px;
+    margin-bottom: 15px;
+    height: 2opx;
+}
+.sign{
+    padding: 10px;
+}
+#signbox{
+    display: inline-flex;
+    width: 30%;
+    text-align: center;
+}
+hr{
+    width: 90%;
+    margin-left: 5%;
+}

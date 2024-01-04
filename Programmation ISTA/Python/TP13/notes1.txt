@@ -1,0 +1,5 @@
+** La liste de moyenne des stagiaires **
+20.0 
+19.5 
+19.75 
+19.75

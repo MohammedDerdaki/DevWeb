@@ -1,0 +1,6 @@
+N1 =int(input("Entrez nombre 1:"))
+N2 =int(input("Entrez nombre 2:"))
+print(f"{N1} + {N2} = {N1+N2}")
+print(f"{N1} - {N2} = {N1-N2}")
+print(f"{N1} * {N2} = {N1*N2}")
+print(f"{N1} / {N2} = {round(N1/N2,2)}")

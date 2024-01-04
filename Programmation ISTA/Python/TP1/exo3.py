@@ -1,0 +1,5 @@
+N1 =float(input("Entrez nombre 1:"))
+N2 =float(input("Entrez nombre 2:"))
+N3 =float(input("Entrez nombre 3:"))
+print("La moyen de les trois nombres est:", ((N1+N2+N3)//3))
+print("La moyen avec virgule:", round((N1+N2+N3)/3,2))
